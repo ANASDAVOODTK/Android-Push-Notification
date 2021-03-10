@@ -19,7 +19,11 @@ How to send push notification from app to app or app to all apps...
             </intent-filter>
         </service>
         
-## 3) Then 
+## 3) Then add this two calss in to your packages 'FirebaseMessagingService & FcmNotificationsSender'
+
+
+
+## 4) Then change your Mainactivity like above Thats all. 
 
    
 
